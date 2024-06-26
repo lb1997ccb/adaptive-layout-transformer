@@ -30,7 +30,7 @@ The Adaptive Layout Transformer GUI application demonstrates dynamic layout mana
    ```
 2. Open the project in your preferred Java IDE.
 
-3. Compile and run `AdaptiveLayoutTransformerMain.java.
+3. Compile and run `AdaptiveLayoutTransformerMain.java`.
 
 4. Interact with the GUI to see the dynamic layout changes.
 
